@@ -1,7 +1,7 @@
 # MyProject
 Индивидуальный проект по теме - сайт для книголюбов
 
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
+![Логотип](https://fsd.multiurok.ru/html/2025/01/04/s_67787205dcc83/phpugNMz6_11A-PLA-VR-24g_html_1b438369c6040181.png)
 
 Название: Book Share
 
