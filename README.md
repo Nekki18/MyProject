@@ -16,3 +16,7 @@
 
 Как установить программу:
 - это веб-продукт, его устанавливать не нужно
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ваш-юзернейм/ваш-репозиторий)
+![License](https://img.shields.io/github/license/ваш-юзернейм/ваш-репозиторий)
+![Python version](https://img.shields.io/badge/python-3.8%2B-blue)
