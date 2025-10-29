@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "91WSOoY58x4=",
+  "dgSpecHash": "GlQt7GgutDY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikag\\OneDrive\\Рабочий стол\\visual studio проекты\\BackendAPI_1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\nikag\\OneDrive\\Рабочий стол\\Проекты GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikag\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nikag\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
