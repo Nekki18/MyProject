@@ -1,6 +1,6 @@
-﻿using DataAccess.Models;
+﻿using Domain.Models;
 
-namespace BusinessLogic.Interfaces
+namespace Domain.Interfaces
 {
     public interface IUserService
     {

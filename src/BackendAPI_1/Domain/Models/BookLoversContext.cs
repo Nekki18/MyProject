@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace DataAccess.Models;
+namespace Domain.Models;
 
 public partial class BookLoversContext : DbContext
 {

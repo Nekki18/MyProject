@@ -1,10 +1,10 @@
-﻿using DataAccess.Interfaces;
+﻿using Domain.Interfaces;
 
-namespace DataAccess.Wrapper
+namespace Domain.Wrapper
 {
     public interface IRepositoryWrapper
     {
         IUserRepository User {  get; }
-        void Save();
+        Task Save();
     }
 }

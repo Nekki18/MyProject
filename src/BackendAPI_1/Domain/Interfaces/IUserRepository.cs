@@ -1,6 +1,6 @@
-﻿using DataAccess.Models;
+﻿using Domain.Models;
 
-namespace DataAccess.Interfaces
+namespace Domain.Interfaces
 {
     public interface IUserRepository : IRepositoryBase<User>
     {
