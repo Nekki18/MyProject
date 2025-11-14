@@ -1,6 +1,7 @@
 using Domain.Interfaces;
 using Domain.Models;
-using DataAccess.Wrapper;
+using Domain.Wrapper;
+using BusinessLogic.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendAPI_1
@@ -16,7 +17,7 @@ namespace BackendAPI_1
                     "Host=localhost;Database=book_lovers;Username=postgres;Password=123456"));
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
-            builder.Services.AddScoped<IUserService, IUserService>();
+            builder.Services.AddScoped<IUserService, UserService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
