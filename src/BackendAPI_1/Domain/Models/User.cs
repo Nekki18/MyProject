@@ -27,4 +27,10 @@ public partial class User
     public virtual ICollection<Review> Reviews { get; set; } = new List<Review>();
 
     public virtual ICollection<UsersBook> UsersBooks { get; set; } = new List<UsersBook>();
+    public string Firstname { get; set; }
+    public string Lastname { get; set; }
+    public string Middlename { get; set; }
+    public object Birthdate { get; set; }
+    public string Login { get; set; }
+    public string Id { get; set; }
 }

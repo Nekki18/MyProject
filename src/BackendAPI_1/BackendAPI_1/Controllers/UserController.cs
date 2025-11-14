@@ -1,4 +1,6 @@
-﻿using Domain.Interfaces;
+﻿using BackendAPI_1.Contacts;
+using BackendAPI_1.Contacts.User;
+using Domain.Interfaces;
 using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,13 +25,35 @@ namespace BackendApi.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            return Ok(await _userService.GetById(id));
+            var result = await _userService.GetById(id);
+            var response = new GetUserResponse()
+            {
+                Id = result.Id,
+                Firstname = result.Firstname,
+                Lastname = result.Lastname,
+                Middlename = result.Middlename,
+                Birthdate = result.Birthdate,
+                Login = result.Login,
+                Email = result.Email,
+                Password = result.Password,
+            };
+            return Ok(response);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add(User user)
+        public async Task<IActionResult> Add(CreateUserRequest request)
         {
-            await _userService.Create(user);
+            var userDto = new User()
+            {
+                Firstname = request.Firstname,
+                Lastname = request.Lastname,
+                Middlename = request.Middlename,
+                Birthdate = request.Birthdate,
+                Login = request.Login,
+                Email = request.Email,
+                Password = request.Password,
+            };
+            await _userService.Create(userDto);
             return Ok();
         }
 
@@ -46,5 +70,6 @@ namespace BackendApi.Controllers
             await _userService.Delete(id);
             return Ok();
         }
+
     }
 }

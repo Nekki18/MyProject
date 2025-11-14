@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\contacts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\contacts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\contacts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\contacts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\backendapi_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\backendapi_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E5BE4B1-DBD1-42AA-997F-8C6288E02E7B}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E5BE4B1-DBD1-42AA-997F-8C6288E02E7B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BAB1AC9-E2B3-499C-AA5C-E13D1E34D418}|DataAccess\\DataAccess.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAB1AC9-E2B3-499C-AA5C-E13D1E34D418}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BAB1AC9-E2B3-499C-AA5C-E13D1E34D418}|DataAccess\\DataAccess.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19079E11-5AC9-4D5C-9949-C273895335C9}|Domain\\Domain.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19079E11-5AC9-4D5C-9949-C273895335C9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\backendapi_1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16545DCA-C8B2-4C13-AB27-40725D6354E4}|BackendAPI_1\\BackendAPI_1.csproj|solutionrelative:backendapi_1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19079E11-5AC9-4D5C-9949-C273895335C9}|Domain\\Domain.csproj|c:\\users\\nikag\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B github\\bookcite\\src\\backendapi_1\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,24 +98,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Program.cs",
-              "RelativeDocumentMoniker": "BackendAPI_1\\Program.cs",
-              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Program.cs",
-              "RelativeToolTip": "BackendAPI_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Contacts\\User\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "BackendAPI_1\\Contacts\\User\\GetUserResponse.cs",
+              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Contacts\\User\\GetUserResponse.cs",
+              "RelativeToolTip": "BackendAPI_1\\Contacts\\User\\GetUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:54:37.052Z",
+              "WhenOpened": "2025-11-14T06:13:03.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Contacts\\User\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "BackendAPI_1\\Contacts\\User\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Contacts\\User\\CreateUserRequest.cs",
+              "RelativeToolTip": "BackendAPI_1\\Contacts\\User\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:54:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendAPI_1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendAPI_1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:17:00.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BackendAPI_1",
+              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\BackendAPI_1.csproj",
+              "RelativeDocumentMoniker": "BackendAPI_1\\BackendAPI_1.csproj",
+              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\BackendAPI_1.csproj",
+              "RelativeToolTip": "BackendAPI_1\\BackendAPI_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T05:49:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
@@ -119,25 +162,11 @@
               "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:54:14.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:54:14.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:07:36.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
@@ -145,12 +174,11 @@
               "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:53:34.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:53:34.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
@@ -158,12 +186,11 @@
               "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T08:50:02.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T08:50:02.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
@@ -177,19 +204,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BackendAPI_1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BackendAPI_1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BackendAPI_1\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:17:00.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
@@ -197,12 +211,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:47:58.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:47:58.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
@@ -210,12 +223,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:48:00.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:48:00.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IRepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Interfaces\\IRepositoryWrapper.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
@@ -223,12 +235,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:47:41.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:47:41.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
@@ -236,12 +247,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:47:32.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:47:32.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UsersBook.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\UsersBook.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\UsersBook.cs",
@@ -249,12 +259,11 @@
               "RelativeToolTip": "Domain\\Models\\UsersBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:32.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:32.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Review.cs",
@@ -262,12 +271,11 @@
               "RelativeToolTip": "Domain\\Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:27.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:27.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Note.cs",
@@ -275,12 +283,11 @@
               "RelativeToolTip": "Domain\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:26.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:26.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Like.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\Like.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Like.cs",
@@ -288,12 +295,11 @@
               "RelativeToolTip": "Domain\\Models\\Like.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:24.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:24.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Comment.cs",
@@ -301,12 +307,11 @@
               "RelativeToolTip": "Domain\\Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:22.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:22.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ClubMember.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Models\\ClubMember.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ClubMember.cs",
@@ -314,12 +319,11 @@
               "RelativeToolTip": "Domain\\Models\\ClubMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T06:51:21.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T06:51:21.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
@@ -332,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Domain\\Class1.cs",
@@ -340,12 +344,11 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:59:50.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T08:59:50.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
@@ -353,12 +356,11 @@
               "RelativeToolTip": "BusinessLogic\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:59:24.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T08:59:24.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nikag\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B GitHub\\BookCite\\src\\BackendAPI_1\\DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
@@ -366,8 +368,7 @@
               "RelativeToolTip": "DataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:27:31.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T08:27:31.513Z"
             }
           ]
         }

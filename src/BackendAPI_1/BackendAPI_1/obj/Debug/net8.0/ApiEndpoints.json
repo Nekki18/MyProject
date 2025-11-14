@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "Domain.Models.User",
+        "Name": "request",
+        "Type": "BackendAPI_1.Contacts.User.CreateUserRequest",
         "IsRequired": true
       }
     ],
