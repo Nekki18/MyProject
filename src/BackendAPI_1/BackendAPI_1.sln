@@ -16,6 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Tests", "BusinessLogic.Tests\BusinessLogic.Tests.csproj", "{FCB63F0B-C56B-4006-8E35-DD2D134DC921}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2E00BEC0-EDDD-4B99-8230-68BC29958C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,9 +44,20 @@ Global
 		{19079E11-5AC9-4D5C-9949-C273895335C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19079E11-5AC9-4D5C-9949-C273895335C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19079E11-5AC9-4D5C-9949-C273895335C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB63F0B-C56B-4006-8E35-DD2D134DC921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB63F0B-C56B-4006-8E35-DD2D134DC921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB63F0B-C56B-4006-8E35-DD2D134DC921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB63F0B-C56B-4006-8E35-DD2D134DC921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16545DCA-C8B2-4C13-AB27-40725D6354E4} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{5BAB1AC9-E2B3-499C-AA5C-E13D1E34D418} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{2E5BE4B1-DBD1-42AA-997F-8C6288E02E7B} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{19079E11-5AC9-4D5C-9949-C273895335C9} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{FCB63F0B-C56B-4006-8E35-DD2D134DC921} = {2E00BEC0-EDDD-4B99-8230-68BC29958C32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B5CF672-C9D6-42EA-87E2-6B7899B64332}

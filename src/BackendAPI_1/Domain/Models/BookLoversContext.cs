@@ -35,6 +35,11 @@ public partial class BookLoversContext : DbContext
 
     public virtual DbSet<UsersBook> UsersBooks { get; set; }
 
+    public async Task SaveChangesAsync()
+    {
+        throw new NotImplementedException();
+    }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Book>(entity =>
